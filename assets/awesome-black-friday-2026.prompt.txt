@@ -1,14 +1,18 @@
 Mode: built-in imagegen
-Source project: blackfriday2026.dev
-Source image: artifacts/black-friday-2026-og.png
-Source renderer: src/app/opengraph-image.tsx
-Output: assets/awesome-black-friday-2026.png
+Source image: assets/awesome-black-friday-2026.png at git revision 57d962b
+Original artwork project: blackfriday2026.dev
+Original artwork renderer: src/app/opengraph-image.tsx
+README output: assets/awesome-black-friday-2026.png (1280 × 640 PNG, under 1 MB)
+Social preview output: assets/awesome-black-friday-2026-og.png (1280 × 640 PNG, under 1 MB)
+Export: Sharp resizing and PNG compression; both files use the same 1280 × 640 artwork and are below 1 MB.
+Upload guidance: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview
 
 Use case: precise-object-edit.
-Asset type: the lead PNG banner for the Awesome Black Friday 2026 GitHub README.
-Input image: the supplied 1200 × 630 Black Friday 2026 Open Graph image is the edit target.
-Primary request: add cool, classic "awesome" / "deal with it" pixel sunglasses over the black rainbow cat's two white eyes.
-Glasses: two dark rectangular pixel lenses, a clear off-white chunky pixel outline so the glasses are readable against the black cat, a small connecting bridge, and a few white square glints. Place them naturally over both eyes, leaving the cat's ears, pink nose, cheeks, and smile visible. Make the sunglasses unmistakable at README banner size. They must match the original large, crisp, square pixel-art grid.
-Invariants: change only the small region containing the cat's eyes and new glasses. Preserve the exact cat silhouette, grey border, rainbow trail, pose, body, original charcoal background, grid, stars, layout, original text and all six bottom partner logos. Preserve the original 1200 × 630 landscape composition and full uncropped content.
-Text to preserve exactly: "blackfriday.dev", "BLACK", "FRIDAY", "2026", "for developers."
-No added words, no watermark, no other new objects, no blur, no gradients in the pixel art, no redesign. Keep the existing opaque background.
+Asset type: updated GitHub README banner and repository social preview, with a 2:1 landscape composition intended for a 1280 × 640 PNG.
+Input image: the attached Awesome Black Friday 2026 banner with a rainbow pixel cat wearing white-rimmed sunglasses is the edit target.
+Make exactly these changes:
+1. Remove all six small partner/vendor logos along the bottom, the small coral right-pointing arrow at bottom right, and the thin horizontal divider belonging to that footer row. Fill the cleared area with the same uninterrupted dark background. Do not add replacement logos or symbols.
+2. Make the three-line headline "BLACK" / "FRIDAY" / "2026" easier to read at small social-card sizes. Retain the bold retro pixel/bitmap style, sharp square edges and stepped diagonals, but use clean, familiar capital letterforms, continuous strokes, consistent stroke thickness, open counters, and slightly more breathing room between letters. Remove the checkerboard-like gaps and awkward cutouts that make the current letters ambiguous. BLACK and FRIDAY remain off-white; 2026 remains coral. Keep these three lines left-aligned in the same region, with roughly the same visual weight. Do not turn the text into a smooth modern sans serif.
+Preserve the existing black cat, white-rimmed pixel sunglasses, smile, pink cheeks, rainbow trail, silhouette, scale, and pose on the right. Preserve the subtle grid, little pixel stars around the cat, dark charcoal/plum background, and overall balanced composition. Preserve the top-left "blackfriday.dev" label and its small coral square, and the subtitle "for developers." under the headline.
+Exact visible text: "blackfriday.dev", "BLACK", "FRIDAY", "2026", "for developers."
+Keep generous safe margins around all text and the cat. Adjust the outer canvas minimally to a 2:1 aspect ratio without stretching the artwork or clipping content. Keep the opaque background. No extra wording, badges, logos, arrows, watermark, blur, or new objects.

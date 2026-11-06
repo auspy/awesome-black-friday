@@ -1,0 +1,14 @@
+Mode: built-in imagegen
+Source project: blackfriday2026.dev
+Source image: artifacts/black-friday-2026-og.png
+Source renderer: src/app/opengraph-image.tsx
+Output: assets/awesome-black-friday-2026.png
+
+Use case: precise-object-edit.
+Asset type: the lead PNG banner for the Awesome Black Friday 2026 GitHub README.
+Input image: the supplied 1200 × 630 Black Friday 2026 Open Graph image is the edit target.
+Primary request: add cool, classic "awesome" / "deal with it" pixel sunglasses over the black rainbow cat's two white eyes.
+Glasses: two dark rectangular pixel lenses, a clear off-white chunky pixel outline so the glasses are readable against the black cat, a small connecting bridge, and a few white square glints. Place them naturally over both eyes, leaving the cat's ears, pink nose, cheeks, and smile visible. Make the sunglasses unmistakable at README banner size. They must match the original large, crisp, square pixel-art grid.
+Invariants: change only the small region containing the cat's eyes and new glasses. Preserve the exact cat silhouette, grey border, rainbow trail, pose, body, original charcoal background, grid, stars, layout, original text and all six bottom partner logos. Preserve the original 1200 × 630 landscape composition and full uncropped content.
+Text to preserve exactly: "blackfriday.dev", "BLACK", "FRIDAY", "2026", "for developers."
+No added words, no watermark, no other new objects, no blur, no gradients in the pixel art, no redesign. Keep the existing opaque background.

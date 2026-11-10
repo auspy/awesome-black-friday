@@ -4,13 +4,14 @@
 
 Deals on dev tools, AI, and more, from [Black Friday 2026](https://www.blackfriday.dev/). 🐱
 
-> **Affiliate disclosure:** These are affiliate links. If you buy through them, we may earn a commission at no extra cost to you. Thanks for the love and support! ❤️
+> **Affiliate disclosure:** Some links are affiliate links. If you buy through them, we may earn a commission at no extra cost to you. Thanks for the love and support! ❤️
 
 Annual savings are compared with monthly billing and require upfront payment. Offers can change, so check eligibility, the final price, and renewal terms before buying.
 
 ## Contents
 
 - [Hosting & infrastructure](#hosting--infrastructure)
+- [Security & privacy](#security--privacy)
 - [AI & automation](#ai--automation)
 - [Email & customer support](#email--customer-support)
 - [Social & content](#social--content)
@@ -45,8 +46,54 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="assets/favicons/namecheap.png" width="16" height="16" alt=""> **[Namecheap](https://namecheap.pxf.io/AgOvKK)** - Domains for your next project.
+
+  <details>
+  <summary><strong>.COM for $6.48 for the first year</strong> · code <code>NEWCOM648</code></summary>
+
+  New customers only: one non-premium .com per person or household. Use NEWCOM648 at checkout. Renews at $19.98/year; the $0.20 annual ICANN fee is extra.
+
+  [Offer details](https://www.namecheap.com/domains/registration/gtld/com/).
+
+  </details>
+
 - <img src="assets/favicons/railway.png" width="16" height="16" alt=""> **[Railway](https://railway.com?referralCode=lAH3cp)** - Deploy apps, APIs, and databases.
   <br>*No offer confirmed yet.*
+
+- <img src="assets/favicons/vultr.png" width="16" height="16" alt=""> **[Vultr](https://www.vultr.com/?ref=9934693-9J)** - Cloud hosting, GPUs, and managed databases.
+
+  <details>
+  <summary><strong>$300 in credits for 30 days</strong></summary>
+
+  New customers only through our link; duplicate accounts don't qualify. Link a valid credit card or PayPal account. Unused credits expire after 30 days.
+
+  [Offer details](https://www.vultr.com/?ref=9934693-9J).
+
+  </details>
+
+## Security & privacy
+
+- <img src="assets/favicons/nordpass.png" width="16" height="16" alt=""> **[NordPass](https://go.nordpass.io/aff_c?offer_id=488&aff_id=160368&url_id=9356)** - Store passwords and passkeys, and autofill logins.
+
+  <details>
+  <summary><strong>Black Friday: up to 50% off + 3 extra months</strong></summary>
+
+  Annual Personal plans, paid upfront. The three Premium months require a two-year Premium or Family plan kept beyond 30 days. Renews at regular pricing; tax extra. Ends Dec 9, 2026 at 9 a.m. CET (UTC+1).
+
+  [Offer details](https://nordpass.com/black-friday/).
+
+  </details>
+
+- <img src="assets/favicons/nordvpn.png" width="16" height="16" alt=""> **[NordVPN](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=160368&url_id=902)** - A VPN for private browsing across your devices.
+
+  <details>
+  <summary><strong>Black Friday: up to 78% off + 3 extra months</strong></summary>
+
+  Two-year plans, paid upfront. Savings vary by plan and region; renewals cost more. Extra months apply to eligible purchases kept beyond 30 days. Ends Dec 9, 2026 at 9 a.m. CET (UTC+1).
+
+  [Offer details](https://nordvpn.com/black-friday/).
+
+  </details>
 
 ## AI & automation
 
@@ -67,9 +114,9 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 - <img src="assets/favicons/clico.png" width="16" height="16" alt=""> **[Clico](https://tryclico.link/bergside)** - AI writing, research, images, and video.
 
   <details>
-  <summary><strong>20% off your first purchase</strong></summary>
+  <summary><strong>20% off your first purchase</strong> · code <code>BERGSIDE20OFF</code></summary>
 
-  New customers referred through our affiliate link receive 20% off their first purchase. Follow the link before signing up. Subsequent purchases use the applicable regular price; combining this perk with annual billing savings is not confirmed.
+  New customers: follow our link and use BERGSIDE20OFF for 20% off your first purchase. Later purchases use regular pricing.
 
   [Offer details](https://partners.dub.co/clico).
 
@@ -88,6 +135,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
 - <img src="assets/favicons/magica.png" width="16" height="16" alt=""> **[Magica](https://try.magica.com/bergside)** - An AI workspace for images, video, and design.
   <br>*No offer confirmed yet.*
+
+- <img src="assets/favicons/n8n.png" width="16" height="16" alt=""> **[n8n](https://n8n.partnerlinks.io/dcpb44nu231k)** - Automate workflows with connected apps and AI agents.
+
+  <details>
+  <summary><strong>Save 17% with annual billing</strong></summary>
+
+  Pay yearly upfront to save 17% compared with monthly billing.
+
+  [Offer details](https://n8n.io/pricing/).
+
+  </details>
 
 - <img src="assets/favicons/poppy.png" width="16" height="16" alt=""> **[Poppy AI](https://creator.getpoppy.ai/bergside)** - A visual canvas for research and content creation.
 
@@ -158,15 +216,10 @@ Annual savings are compared with monthly billing and require upfront payment. Of
   </details>
 
 - <img src="assets/favicons/kit.png" width="16" height="16" alt=""> **[Kit](https://partners.kit.com/fxt1ypjszg0z-uw04r)** - Newsletters, email automations, and digital products.
+  <br>*No current offer confirmed.*
 
-  <details>
-  <summary><strong>25% off your first year of Pro on annual billing</strong></summary>
-
-  Kit's limited-time offer takes an extra 25% off the first year of Pro on annual billing. The homepage lists November 7, 2026 as the deadline; an exact cutoff time is not published. Pay for the year upfront; renewal is at the standard rate. Confirm eligibility and the total for your subscriber count.
-
-  [Offer details](https://kit.com/).
-
-  </details>
+- <img src="assets/favicons/knock.png" width="16" height="16" alt=""> **[Knock](https://knock.link/bergside)** - Notification APIs for email, in-app messages, push, and SMS.
+  <br>*No offer confirmed yet.*
 
 - <img src="assets/favicons/mailcheap.png" width="16" height="16" alt=""> **[MailCheap](https://mailcheap.ai/?via=bergside)** - An open-source newsletter platform with AI tools.
 
@@ -252,10 +305,21 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
 ## Learning
 
-- <img src="assets/favicons/udemy.png" width="16" height="16" alt=""> **[Udemy](https://trk.udemy.com/jR76V5)** - Self-paced courses in programming, cloud, AI, and more.
+- <img src="assets/favicons/udemy.png" width="16" height="16" alt=""> **[Udemy](https://trk.udemy.com/oNKkno)** - Self-paced courses in programming, cloud, AI, and more.
   <br>*No offer confirmed yet.*
 
 ## Analytics
+
+- <img src="assets/favicons/ai-peekaboo.png" width="16" height="16" alt=""> **[AI Peekaboo](https://www.aipeekaboo.com/)** - Track your brand's visibility in AI search.
+
+  <details>
+  <summary><strong>Black Friday: 25% off for 12 months</strong> · code <code>BLACKFRIDAY</code></summary>
+
+  Use BLACKFRIDAY at checkout for 25% off for 12 months.
+
+  [Offer details](https://www.aipeekaboo.com/).
+
+  </details>
 
 - <img src="assets/favicons/datafast.png" width="16" height="16" alt=""> **[DataFast](https://datafa.st/?via=bergside)** - See which traffic turns into paying customers.
 
@@ -306,6 +370,20 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
+- <img src="assets/favicons/superscale.png" width="16" height="16" alt=""> **[Superscale](https://try.superscale.ai/bergside)** - Create and test video and image ads with AI.
+  <br>*No offer confirmed yet.*
+
+- <img src="assets/favicons/uneed.png" width="16" height="16" alt=""> **[Uneed](https://go.klibon.com/r/jeibhTVh)** - Launch your product and reach early users.
+
+  <details>
+  <summary><strong>Upcoming Black Friday, Nov 16–Dec 4: lifetime Pro for $149</strong></summary>
+
+  Pay once for Pro and five Skip the line launches. Opens Nov 16 at midnight Pacific and closes Dec 4, 2026 at 11:59 p.m. Pacific, or earlier if its 100 spots sell out. Lifetime access lasts while Uneed operates; the separate customer-finding plan isn't included.
+
+  [Offer details](https://www.uneed.best/lifetime?from=home_banner).
+
+  </details>
+
 - <img src="assets/favicons/unfair.png" width="16" height="16" alt=""> **[unfair.so](https://x.unfair.so/bergside)** - Find creators and run campaigns for your product.
   <br>*No offer confirmed yet.*
 
@@ -314,9 +392,9 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 - <img src="assets/favicons/context.png" width="16" height="16" alt=""> **[Context.dev](https://link.context.dev/bergside)** - Web search and crawling APIs for AI apps.
 
   <details>
-  <summary><strong>25% off for six months</strong></summary>
+  <summary><strong>25% off for six months</strong> · code <code>BERGSIDE25OFF</code></summary>
 
-  New customers using our affiliate link receive 25% off for six months. Follow the link before signing up and confirm eligible plans and the discount at checkout. Regular pricing applies after the promotional period; stacking with annual or startup discounts is not confirmed.
+  New customers: follow our link and use BERGSIDE25OFF for 25% off for six months, then regular pricing.
 
   [Offer details](https://partners.dub.co/context-dev).
 
@@ -333,7 +411,7 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
-- <img src="assets/favicons/envato.png" width="16" height="16" alt=""> **[Envato Market](https://1.envato.market/v6G5j)** - Website templates, WordPress themes, plugins, and code.
+- <img src="assets/favicons/envato.png" width="16" height="16" alt=""> **[Envato Market](https://1.envato.market/2R6v3G)** - Website templates, WordPress themes, plugins, and code.
   <br>*No offer confirmed yet.*
 
 - <img src="assets/favicons/firecrawl.png" width="16" height="16" alt=""> **[Firecrawl](https://firecrawl.link/bergside)** - Turn websites into clean data for AI apps.
@@ -346,6 +424,9 @@ Annual savings are compared with monthly billing and require upfront payment. Of
   [Offer details](https://partners.dub.co/firecrawl).
 
   </details>
+
+- <img src="assets/favicons/flowbite.png" width="16" height="16" alt=""> **[Flowbite](https://flowbite.com/)** - Tailwind CSS components, templates, and Figma resources.
+  <br>*No offer confirmed yet.*
 
 - <img src="assets/favicons/framer.png" width="16" height="16" alt=""> **[Framer](https://framer.link/zoltan-szogyenyi-z8cw)** - Design and publish websites with a visual builder.
 
@@ -372,6 +453,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
   Shadcn.io advertises 33% savings on yearly subscriptions compared with monthly billing. Paid upfront once a year; the discount is for annual subscriptions, not the separate lifetime license. Confirm the selected license and renewal total at checkout.
 
   [Offer details](https://www.shadcn.io/pricing).
+
+  </details>
+
+- <img src="assets/favicons/typeui.png" width="16" height="16" alt=""> **[TypeUI](https://typeui.sh/)** - AI design skills, prompts, and website analytics.
+
+  <details>
+  <summary><strong>Two months free with yearly billing</strong></summary>
+
+  Pay yearly and get 12 months for the price of 10.
+
+  [Offer details](https://www.typeui.sh/).
 
   </details>
 
@@ -440,6 +532,17 @@ Annual savings are compared with monthly billing and require upfront payment. Of
   New users referred through our affiliate link get their first month of a paid plan free. Sign up through the link and confirm the eligible paid plan and subsequent billing price. This is a one-month introductory benefit, not a permanently free paid plan.
 
   [Offer details](https://partners.dub.co/granola).
+
+  </details>
+
+- <img src="assets/favicons/papermark.png" width="16" height="16" alt=""> **[Papermark](https://refer.papermark.com/bergside)** - Share documents and data rooms with access controls and analytics.
+
+  <details>
+  <summary><strong>20% off for three months</strong></summary>
+
+  New users get 20% off for three months through our link, then regular pricing.
+
+  [Offer details](https://partners.dub.co/papermark).
 
   </details>
 
